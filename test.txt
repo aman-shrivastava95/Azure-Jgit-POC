@@ -1,1 +1,1 @@
-sample file 1
+sampleChanged file 1
